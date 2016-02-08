@@ -82,7 +82,7 @@ Next, you need to install Node.js, and possibly also npm, if you don’t have it
 already.
 
 5. Copy below the output from `node -v`:
-output is not a tty
+v4.2.4
 
 6. Copy below all of the output from `npm install http-server -g`:
 Starting up http-server, serving C:\Users\Majors\AppData\Roaming\npm\hs
