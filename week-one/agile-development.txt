@@ -73,6 +73,11 @@ Connection to github.com closed.
 Clone your fork of this repository. Then, on your computer, add a remote
 referencing my copy of the repository as the upstream rep by running
 `git remote add upstream https://github.com/karlstolley/itmd362-pp.git`
+Cloning into 'itmd362-pp'...
+remote: Counting objects: 24, done.
+remote: Total 24 (delta 0), reused 0 (delta 0), pack-reused 24
+Unpacking objects: 100% (24/24), done.
+Checking connectivity... done.
 
 4. Copy below the output from `git remote -v` from within your copy of this
 repository:
