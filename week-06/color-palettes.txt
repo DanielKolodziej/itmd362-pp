@@ -30,11 +30,13 @@ green, brown.  My choice specifically is base green with more/less shade added.
 * A complementary palette for a banking website.
 
 Filename: complementaryPalette_banking.png
-Explanation of your color choices: My choice of colors was to represent a simple and profession design.  I used white and lighter shades before black to contrast and be the layout/background.  Blue and orange contrast aswell, and would be used
-as the decoration colors to make elements stand out.
+Explanation of your color choices: My choice of colors was to represent a simple and profession design.  
+I used white and lighter shades before black to contrast and be the layout/background.  Blue and orange 
+contrast aswell, and would be used as the decoration colors to make elements stand out.
 
 * A triadic palette for a website that offers games for children.
 
 Filename: triadicPalette_games.png
-Explanation of your color choices:  Children typically are drawn to colorfull and fun designs.  My palette colors contain 
-an array of differing colors to create a design full of bold color in order to have a fun look while keeping the child's attention and 
+Explanation of your color choices:  Children typically are drawn to colorfull and fun designs.  My palette colors
+contain an array of differing colors to create a design full of bold color in order to have a fun look while 
+keeping the child's attention.
