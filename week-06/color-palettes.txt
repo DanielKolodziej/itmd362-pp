@@ -33,5 +33,5 @@ Explanation of your color choices:
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
+Filename: triadicPalette_games
 Explanation of your color choices:
