@@ -22,7 +22,7 @@ multiple custom gaming laptop sites and gathering their similarities.
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
+Filename: shadedPalette_organic
 Explanation of your color choices: Chose colors that could resemble or portray and natural/organic feel.  Colors
 best fit are bright , high red/green values.  Colors matching this description are red, yellow, orange, green, brown.
 
