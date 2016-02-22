@@ -25,6 +25,7 @@ multiple custom gaming laptop sites and gathering their similarities.
 Filename: shadedPalette_organic.png
 Explanation of your color choices: Chose colors that could resemble or portray and natural/organic feel.  Colors
 best fit are bright , high red/green values.  Colors matching this description are red, yellow, orange, green, brown.
+My choice specifically is base green with more/less shade added.
 
 * A complementary palette for a banking website.
 
