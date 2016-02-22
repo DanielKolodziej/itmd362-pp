@@ -15,23 +15,23 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename: monochromaticPalette_laptop
+Filename: monochromaticPalette_laptop.png
 Explanation of your color choices: Started with a base hue of black and then increased the R.G.B values to attain
 more grayish/white colors.  Last added a bright color to stand out.  These choices are based off comparing
 multiple custom gaming laptop sites and gathering their similarities.
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename: shadedPalette_organic
+Filename: shadedPalette_organic.png
 Explanation of your color choices: Chose colors that could resemble or portray and natural/organic feel.  Colors
 best fit are bright , high red/green values.  Colors matching this description are red, yellow, orange, green, brown.
 
 * A complementary palette for a banking website.
 
-Filename: complementaryPalette_banking
+Filename: complementaryPalette_banking.png
 Explanation of your color choices:
 
 * A triadic palette for a website that offers games for children.
 
-Filename: triadicPalette_games
+Filename: triadicPalette_games.png
 Explanation of your color choices:
