@@ -28,7 +28,7 @@ best fit are bright , high red/green values.  Colors matching this description a
 
 * A complementary palette for a banking website.
 
-Filename:
+Filename: complementaryPalette_banking
 Explanation of your color choices:
 
 * A triadic palette for a website that offers games for children.
