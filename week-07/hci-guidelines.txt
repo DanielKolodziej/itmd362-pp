@@ -30,7 +30,7 @@ Fine-grained, atomic commits to your Production Problems repository that include
                           MobileHIG/Navigation.html#//apple_ref/doc/uid/TP40006556-CH53-SW1
 * How you implemented it in your sketch:
 
-* HCI Guidline Two (URL):
+* HCI Guidline Two (URL): https://www.google.com/design/spec/layout/structure.html#
 * How you implemented it in your sketch:
 
 * HCI Guidline Three (URL):
