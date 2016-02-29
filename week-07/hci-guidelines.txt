@@ -29,15 +29,19 @@ Fine-grained, atomic commits to your Production Problems repository that include
 * HCI Guidline One (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/
                           MobileHIG/Navigation.html#//apple_ref/doc/uid/TP40006556-CH53-SW1
 * How you implemented it in your sketch:
-
+    filenames: sketch- (IMG_0449.PNG) , iit - (IMG_0450.PNG)
+    explanation: The actual homepage does not incorporate any sort of navigation for the user, instead puts up 
+    everything on single page.  The profile after logging in does contain a navbar but it is not very appealing nor efficiently     designed for mobile users.
+    
 * HCI Guidline Two (URL): https://www.google.com/design/spec/layout/structure.html#
 * How you implemented it in your sketch:
     filenames:  
     explanation: 
+    
 * HCI Guidline Three (URL): https://developer.apple.com/library/ios/documentation/UserExperience/
                             Conceptual/MobileHIG/Principles.html#//apple_ref/doc/uid/TP40006556-CH4-SW1
 * How you implemented it in your sketch:
-    filenames:  IMG_0447.PNG , IMG_0448.PNG
+    filenames: iit - (IMG_0447.PNG) , sketch - (IMG_0448.PNG)
     explanation: The actual mobile view of the iit homepage squishes and shrinks all the elements to beable to
     fit on the screen.  In my sketch I tried to implement a design for mobile view that changes the format of
     the page to include important details at the top and not include unneccassary information instead of trying to fit             everything.
