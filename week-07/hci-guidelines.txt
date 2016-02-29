@@ -35,7 +35,7 @@ Fine-grained, atomic commits to your Production Problems repository that include
     
 * HCI Guidline Two (URL): https://www.google.com/design/spec/layout/structure.html#
 * How you implemented it in your sketch:
-    filenames:  
+    filenames:  iit- (iitHomepageStructure.png) , sketch - ()
     explanation: 
     
 * HCI Guidline Three (URL): https://developer.apple.com/library/ios/documentation/UserExperience/
