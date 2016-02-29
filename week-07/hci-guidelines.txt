@@ -33,5 +33,6 @@ Fine-grained, atomic commits to your Production Problems repository that include
 * HCI Guidline Two (URL): https://www.google.com/design/spec/layout/structure.html#
 * How you implemented it in your sketch:
 
-* HCI Guidline Three (URL):
+* HCI Guidline Three (URL): https://developer.apple.com/library/ios/documentation/UserExperience/
+                            Conceptual/MobileHIG/Principles.html#//apple_ref/doc/uid/TP40006556-CH4-SW1
 * How you implemented it in your sketch:
