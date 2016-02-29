@@ -35,8 +35,10 @@ Fine-grained, atomic commits to your Production Problems repository that include
     
 * HCI Guidline Two (URL): https://www.google.com/design/spec/layout/structure.html#
 * How you implemented it in your sketch:
-    filenames:  iit- (iitHomepageStructure.png) , sketch - ()
-    explanation: 
+    filenames:  iit- (iitHomepageStructure.png) , sketch - (IMG_0451.PNG)
+    explanation: The homepage of the current iit homepage is not organised very well and and too much information all
+    over the page boxxed/cut into too many individual regions, all making for an ugly/non-user friendly layout.  In my sketch I tried to better organize the structure presented     on the desktop view of the homepage by adding a horozontal divider, and un-clumping all the information from itself (make 
+    important elements priority,  get rid of block of paragraph content, use regions for specific information/details).
     
 * HCI Guidline Three (URL): https://developer.apple.com/library/ios/documentation/UserExperience/
                             Conceptual/MobileHIG/Principles.html#//apple_ref/doc/uid/TP40006556-CH4-SW1
