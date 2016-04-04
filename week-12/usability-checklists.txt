@@ -13,7 +13,7 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
+1. Navigation is consistent on every page.
 2.
 3.
 4.
