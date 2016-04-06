@@ -18,8 +18,10 @@ in this directory (`index.html`) so that is free from errors.
   line 6 column 5 - Warning: <meta> unexpected or duplicate quote mark
   line 10 column 46 - Warning: <img> attribute with missing trailing quote mark
   line 10 column 7 - Warning: missing </a>
+  line 11 column 7 - Warning: missing </figcaption>
+  line 11 column 7 - Warning: <figcaption> anchor "hank-and-fanny" already defined
   Info: Document content looks like HTML5
-  Tidy found 3 warnings and 0 errors!
+  Tidy found 5 warnings and 0 errors!
 
 2. Fix as many errors as are listed by HTML Tidy, and re-run until there are no errors reported. HINT: Always 
 fix the first error reported, then re-run tidy. Then, run the contents of `index.html` through the HTML validator.
