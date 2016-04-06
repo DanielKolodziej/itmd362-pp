@@ -14,7 +14,8 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 * Your own condensed, ten-item must-have usability checklist:
 
 1. Navigation is consistent on every page.
-2.
+2. Clear call for action. Users know what to do next and why it benefits them. 
+              They understand the value proposition and purpose of the site.
 3.
 4.
 5.
