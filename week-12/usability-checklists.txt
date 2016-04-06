@@ -18,7 +18,7 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
               They understand the value proposition and purpose of the site.
 3. Links are easily recognizable.
 4. Site is responsive. Works with different screen sizes.
-5.
+5. Pages aren't cluttered. There is enough white space to support scanning.
 6.
 7.
 8.
