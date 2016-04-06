@@ -21,6 +21,6 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 5. Pages aren't cluttered. There is enough white space to support scanning.
 6. URLs Are Meaningful & User-friendly
 7. Simplicity. Only absolutely necessary questions are asked in forms.
-8.
+8. Error messages are shown next to the input field, not just on top of the page.
 9.
 10.
