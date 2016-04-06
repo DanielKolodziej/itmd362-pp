@@ -13,14 +13,13 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1. Navigation is consistent on every page.
-2. Clear call for action. Users know what to do next and why it benefits them. 
-              They understand the value proposition and purpose of the site.
-3. Links are easily recognizable.
-4. Site is responsive. Works with different screen sizes.
-5. Pages aren't cluttered. There is enough white space to support scanning.
-6. URLs Are Meaningful & User-friendly
-7. Simplicity. Only absolutely necessary questions are asked in forms.
-8. Error messages are shown next to the input field, not just on top of the page.
-9. Browser compatibility. Site works in various browsers. Check with e.g. the Browser Shots tool.
+1. Consistent, easy navigation on every page.
+2. Clear call for action that gives the site a purpose.
+3. Links are recognizable, no "fake/mistook" links.
+4. Site is responsive for all screen sizes.
+5. Pages aren't cluttered to support users to scan.
+6. URLs are meaningful to the content.
+7. Simplicity in forms for only neccessary fields.
+8. Error messages are noticable and clear.
+9. Site has browser compatibility.
 10. Related information is grouped together clearly.
