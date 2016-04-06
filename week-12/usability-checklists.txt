@@ -16,7 +16,7 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 1. Navigation is consistent on every page.
 2. Clear call for action. Users know what to do next and why it benefits them. 
               They understand the value proposition and purpose of the site.
-3.
+3. Links are easily recognizable.
 4.
 5.
 6.
