@@ -17,7 +17,7 @@ B. Emotional design levels of your object:
 
 * Visceral: Simple, sleak design that looks both comfortable and modern.
   
-* Behavioral:
+* Behavioral: Nothing fancy but effective in its functioning being both sturdy and comfy to sit on.
 
 * Reflective:
 
