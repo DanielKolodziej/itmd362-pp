@@ -23,6 +23,7 @@ B. Emotional design levels of your object:
 
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
-1.
-2.
-3.
+1. Simpleness: Clear in its design that it is a chair and satisfies the basic needs a consumer demands from a chair.
+  The redesign should reflect this quality to make users think less and easy to use.
+2. 
+3. 
