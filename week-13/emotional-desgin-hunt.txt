@@ -19,7 +19,8 @@ B. Emotional design levels of your object:
   
 * Behavioral: Nothing fancy but effective in its functioning being both sturdy and comfy to sit on.
 
-* Reflective: Here would be something the chair lacks in emotional design being the reflecive aspect.  Doesn't have a connection past its functions and appearance.
+* Reflective: Here would be something the chair lacks in emotional design being the reflecive aspect.  Doesn't have a
+connection past its functions and appearance.
 
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
@@ -27,4 +28,5 @@ C.  Emotional design qualities of the object that might be useful for Project 3/
   The redesign should reflect this quality to make users think less and easy to use.
 2. Functionality: Reliable design that delivers in its use, works perfectly for its purpose.  The redesign should
     follow this principle to make sure it works and does what is intended.
-3. Reflective: This is what the chair is missing and therefore makes it fairly replaceable.  For the redesign try to employ some quality of life features to make users want to come and not feel obligated or forced because of lack of options.
+3. Reflective: This is what the chair is missing and therefore makes it fairly replaceable.  For the redesign try to employ
+some quality of life features to make users want to come and not feel obligated or forced because of lack of options.
