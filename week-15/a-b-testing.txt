@@ -15,5 +15,7 @@ Finally, describe modification and the HTML, CSS, and JavaScript that you would 
   
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`week-15`)
   sketch: interfaceDrawing.jpg
+  
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for
 the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+  Modification: The interface chosen is the slider on videos for the website.  Currently, it is very difficult to use whether to go backword or forward especially on smaller devices such as a phone.  In order to try proving and improvement of experience, I'd add a circle tool to use in assisting navigation throughout the slider placed on the current timeslot the video is at.
