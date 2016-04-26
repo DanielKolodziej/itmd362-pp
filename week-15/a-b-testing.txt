@@ -24,7 +24,8 @@ the test (you do *not* have to write the actual HTML, CSS, and JavaScript, howev
   
   HTML: The HTML will just hold the skeleton for the current version of the video.  There will also be a div holding what will be a progress bar overlay for the video but this div will be hidden unless triggered.
   
-  CSS:
+  CSS: Similar to the html, css will be the same current version of the site initially.  It will hold attributes and updates
+  to the progress bar div in the html which again won't show unless the html is shown.
   
   JS:  The javascipt's function for this test will be to have a function with a random algorithm generated to pick whether a 
   user will have a video with or without the assistance of the circle tool on slider.
