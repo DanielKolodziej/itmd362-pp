@@ -26,4 +26,5 @@ the test (you do *not* have to write the actual HTML, CSS, and JavaScript, howev
   
   CSS:
   
-  JS:
+  JS:  The javascipt's function for this test will be to have a function with a random algorithm generated to pick whether a 
+  user will have a video with or without the assistance of the circle tool on slider.
