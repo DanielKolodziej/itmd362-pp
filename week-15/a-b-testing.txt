@@ -22,7 +22,7 @@ the test (you do *not* have to write the actual HTML, CSS, and JavaScript, howev
   go backword or forward especially on smaller devices such as a phone.  In order to try proving and improvement of experience,
   I'd add a circle tool to use in assisting navigation throughout the slider placed on the current timeslot the video is at.
   
-  HTML:
+  HTML: The HTML will just hold the skeleton for the current version of the video.  There will also be a div holding what will be a progress bar overlay for the video but this div will be hidden unless triggered.
   
   CSS:
   
