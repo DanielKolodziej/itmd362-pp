@@ -18,9 +18,9 @@ Finally, describe modification and the HTML, CSS, and JavaScript that you would 
   
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for
 the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
-  Modification: The interface chosen is the slider on videos for the website.  Currently, it is very difficult to use whether to
-  go backword or forward especially on smaller devices such as a phone.  In order to try proving and improvement of experience,
-  I'd add a circle tool to use in assisting navigation throughout the slider placed on the current timeslot the video is at.
+  Modification: The interface chosen is the slider on videos for the website.  Currently, it is very difficult to use whether to go backword or forward especially on smaller devices such as a phone.  In order to try proving and improvement of experience, I'd add a circle tool to use in assisting navigation throughout the slider placed on the current timeslot the
+    video is at.  Once the test is completed, both test groups will be asked of their experience trying to change the time
+    progress bar; which will prove that once the improvement is added will lead to higher satisfaction.
   
   HTML: The HTML will just hold the skeleton for the current version of the video.  There will also be a div holding what will be a progress bar overlay for the video but this div will be hidden unless triggered.
   
@@ -28,4 +28,4 @@ the test (you do *not* have to write the actual HTML, CSS, and JavaScript, howev
   to the progress bar div in the html which again won't show unless the html is shown.
   
   JS:  The javascipt's function for this test will be to have a function with a random algorithm generated to pick whether a 
-  user will have a video with or without the assistance of the circle tool on slider.
+  user will have a video with or without the assistance of the circle tool on slider.  The algorithm will assign the user either the label "A" for the current website, or "B" which will activate the hidden elements in the html.
