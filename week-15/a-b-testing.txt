@@ -11,7 +11,8 @@ Finally, describe modification and the HTML, CSS, and JavaScript that you would 
 ## Deliverables
 
 * Screenshots of the interface component on mobile and desktop, placed in this directory (`week-15`)
-
+  desktop: interfaceDesktop.png    ;     phone: interfacePhone.png
+  
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`week-15`)
 
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for
